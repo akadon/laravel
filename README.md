@@ -1,4 +1,4 @@
-Laravel + react + typescript + tailwind
+Laravel + react + typescript + tailwind + postcss
 
 composer create-project laravel/laravel .
 composer require laravel/ui
